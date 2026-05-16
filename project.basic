@@ -1,0 +1,5 @@
+telegram-daka-robot/
+├── bot.py            # Main bot script
+├── requirements.txt  # Dependencies list
+├── .env              # Environment variables (to store your token securely)
+├── data.db           # SQLite database for tracking user data
